@@ -38,7 +38,7 @@
         }
     },
     "require": {
-        "components/jquery": ">=1.8.2 <3.0",
+        "components/jquery": "3.*",
         "robloach/component-installer": "^0.2"
     }
 }
